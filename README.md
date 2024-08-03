@@ -2,7 +2,8 @@
 * Version of python used: Python 3.12.3
 * Please enable internet access so that the images in the notebook can load properly.
 
-  
+
+  *****************************************************************************************************************************************
 
   # Project Technical Description: Sign Calculator
 
