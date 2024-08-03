@@ -67,6 +67,6 @@ The real-time deployment involves capturing hand signs through the webcam. The c
 This sign calculator project demonstrates the practical application of CNNs in real-time hand sign recognition and expression evaluation. The integration of machine learning, computer vision, and real-time processing offers a unique and interactive approach to performing arithmetic calculations. With further enhancements and training on a more comprehensive dataset, the model can be extended to recognize a wider range of digits and operators.
 
 
-# Open the main ipynb using this link
+# Open the main ipynb using this link (If Github Fails to open properly)
 
 https://nbviewer.org/github/souvikcseiitk/sign_calc/blob/main/0_main.ipynb
