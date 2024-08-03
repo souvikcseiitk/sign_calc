@@ -1,5 +1,6 @@
 * Made in Windows-10
 * Version of python used: Python 3.12.3
+* Currently there is ***no open-source project of sign calculator. This is first of it's kind.***
 * Please enable internet access so that the images in the notebook can load properly.
 * Block Camera by Hand to stop the App & Evaluate the answer on screen
 * Do not let your face come in the camera screen, otherwise auto brightness/contrast will over-brighten the fingers, giving poor accuracy
