@@ -74,6 +74,9 @@ This sign calculator project demonstrates the practical application of CNNs in r
 * Block Camera by Hand to stop the App & Evaluate the answer on screen
 * Do not let your face come in the camera screen, otherwise auto brightness/contrast will over-brighten the fingers, giving poor accuracy
 
+# Kaggle Dataset Citation
+1. https://www.kaggle.com/datasets/roshea6/finger-digits-05 [Ryan O'Shea]
+2. https://www.kaggle.com/datasets/grassknoted/asl-alphabet/data [Akash]
 
 # Open the main ipynb using this link (If Github Fails to open properly)
 
