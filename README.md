@@ -21,6 +21,10 @@ I have developed an innovative sign calculator that utilizes hand gestures to in
 ### Accessibility Benefits for Disabled Individuals
 This sign calculator project can significantly enhance accessibility for individuals with disabilities by providing an intuitive and interactive way to perform mathematical operations. For those with limited mobility or dexterity, traditional input methods such as keyboards and touchscreens can be challenging. This project allows users to input numbers and operators through hand signs, which can be especially beneficial for individuals with motor impairments. By leveraging sign language and hand gestures, users can interact with the calculator more comfortably and efficiently, reducing the physical strain of conventional input methods. Additionally, the visual feedback and real-time evaluation of expressions ensure a seamless and user-friendly experience, making technology more inclusive and accessible for everyone.
 
+
+### Signs and their meanings
+<img src="https://raw.githubusercontent.com/souvikcseiitk/sign_calc/main/extras/signs%20meaning.png" alt="Animation" width="600" height="338" />
+
 ## Key Features
 1. **Hand Sign Input**: The calculator takes numerical digits (0-5) and arithmetic operators (+, -, *, /) as inputs through hand signs.
 2. **Expression Evaluation**: The system evaluates the captured expression and displays the result on the screen.
